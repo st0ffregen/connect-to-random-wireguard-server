@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Disconnect from VPN server
+GenericName=Disonnect from VPN server
+Comment=Disconnect from VPN server via wireguard
+Exec=sh -c "pkexec bash /path/to/script/wireguard_disconnect.sh"
+Terminal=false
+Type=Application
+Icon=/path/to/icon/icon.png
+Categories=Network

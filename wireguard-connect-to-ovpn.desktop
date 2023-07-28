@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Connect to OVPN
-GenericName=Connect to OVPN
-Comment=Connect to a random german server from OVPN via wireguard
-Exec=sh -c "pkexec bash /path/to/script/wireguard_connect_to_ovpn.sh"
-Terminal=false
-Type=Application
-Icon=/path/to/icon/icon.png
-Categories=Network

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Connect to VPN server
+GenericName=Connect to VPN server
+Comment=Connect to a random VPN server via wireguard
+Exec=sh -c "pkexec bash /path/to/script/wireguard_connect.sh"
+Terminal=false
+Type=Application
+Icon=/path/to/icon/icon.png
+Categories=Network
