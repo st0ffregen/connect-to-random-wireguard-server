@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Switch VPN Server
+GenericName=Switch VPN Server
+Comment=Switch to another random VPN server via WireGuard
+Exec=sh -c "pkexec bash /path/to/script/wireguard_switch.sh"
+Terminal=false
+Type=Application
+Icon=/path/to/icon/icon.png
+Categories=Network

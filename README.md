@@ -1,6 +1,6 @@
 # Connect to random wireguard server
 
-This scripts realizes a connection to a server specified by a wireguard `.conf` file which is chosen randomly from the `/etc/wireguard/` directory.
+This project provides scripts for connecting to and disconnecting from a server specified by a wireguard `.conf` file which is chosen randomly from the `/etc/wireguard/` directory. Furthermore, a script for switching the interface is available. 
 
 ## Preparations
 
